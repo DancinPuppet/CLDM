@@ -26,6 +26,9 @@ This repository contains the official implementation of **CLDM**, a feature-base
         ├── twitter15_graph.pkl # Twitter15 benchmark
         ├── twitter16_graph.pkl # Twitter16 benchmark
         └── weibo_graph.pkl     # Weibo benchmark
+├── model_saves/
+│   └── checkpoints/            # Saved model checkpoints and best model
+└── output/                     # Training logs
 ```
 
 ---
