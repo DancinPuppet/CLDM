@@ -1,0 +1,9 @@
+torch==2.5.1
+torchvision==0.20.1
+torch-geometric==2.6.1
+numpy==1.26.4
+networkx
+scikit-learn==1.7.0
+scipy==1.15.2
+ndlib==5.1.1
+tqdm
